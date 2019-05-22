@@ -12,6 +12,6 @@ class Keypad extends React.Component {
           onKeyUp={this.handleInputPassword}
         />
       </div>
-      )
+    )
   }
 }
